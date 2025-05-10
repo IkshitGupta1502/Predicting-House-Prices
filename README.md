@@ -43,4 +43,4 @@ The results provide deep insights into the main factors that influence home valu
 - Hyperparameter Tuning: RandomizedSearchCV and GridSearchCV for optimizing model performance.
 - Model Performance Visualization: Visualizing model performance using various metrics.
 
-View the full project documentation in the provided PDF.
+View the dataset and the full project documentation in the provided PDF.
